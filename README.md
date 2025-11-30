@@ -1,6 +1,6 @@
 # Grade Unboxing
 
-A Chrome extension that hides grades on https://fsweb.no/studentweb/resultater.jsf and replaces them with a CS:GO-style case-opening animation.
+A Chrome extension that hides grades on https://fsweb.no/studentweb/resultater.jsf and replaces them with a CS:GO-style case-opening animation. This project is 100% vibe coded by the way, I have done practically nothing.
 
 ## Installation
 
