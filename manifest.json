@@ -13,7 +13,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://fsweb.no/studentweb/resultater.jsf"],
+      "matches": ["https://fsweb.no/studentweb/resultater.jsf*"],
       "css": ["content_scripts/content.css"],
       "js": ["content_scripts/content.js"]
     }
