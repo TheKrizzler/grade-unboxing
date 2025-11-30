@@ -3,7 +3,6 @@
   "name": "Grade Unboxing",
   "version": "1.0.0",
   "description": "Hide numeric/letter grades on studentweb and replace them with a CS:GO-style case-opening animation.",
-  "permissions": ["storage"],
   "host_permissions": [
     "https://fsweb.no/*"
   ],
