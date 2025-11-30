@@ -25,7 +25,7 @@ The anticipation.
 The tension.
 The slow roll from “Common” to “Maybe-Just-Maybe-Something-Insane.”
 
-With Academic Case Opener for Chrome, your grades become more than numbers on a page — they become items of value, rare pulls, coveted outcomes. Every test, every assignment, every semester becomes a case opening session waiting to happen. You click. You wait. The reel spins. Your GPA becomes loot.
+With Grade Unboxing, your grades become more than numbers on a page — they become items of value, rare pulls, coveted outcomes. Every test, every assignment, every semester becomes a case opening session waiting to happen. You click. You wait. The reel spins. Your GPA becomes loot.
 
 No more emotionless scrolling through school portals. No more flat, sterile grade tables.
 Now every result carries risk, weight, and reward.
