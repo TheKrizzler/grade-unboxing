@@ -12,7 +12,7 @@
 
   function queryGradeSpans() {
     // select grade spans in result rows; pattern observed in site HTML
-    return Array.from(document.querySelectorAll('tr.resultatTop .col6Resultat .infoLinje span'));
+    return Array.from(document.querySelectorAll('.col6Resultat .infoLinje span'));
   }
 
   function processSpan(span) {
