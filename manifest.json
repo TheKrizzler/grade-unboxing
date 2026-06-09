@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Grade Unboxing",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Hide numeric/letter grades on studentweb and replace them with a CS:GO-style case-opening animation.",
   "host_permissions": [
     "https://fsweb.no/*"
